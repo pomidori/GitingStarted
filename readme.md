@@ -5,3 +5,5 @@
 ---
 
 Email me at [pomidori@gmail.com]
+
+Project members: Midori Kato, Shoji Soma
